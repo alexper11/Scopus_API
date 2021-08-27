@@ -1,0 +1,1208 @@
+{
+    "author-retrieval-response": [
+        {
+            "@status": "found",
+            "@_fa": "true",
+            "coredata": {
+                "prism:url": "http://api.elsevier.com/content/author/author_id/22941628100",
+                "dc:identifier": "AUTHOR_ID:22941628100",
+                "eid": "9-s2.0-22941628100",
+                "orcid": "0000-0001-9425-4375",
+                "document-count": "87",
+                "cited-by-count": "418",
+                "citation-count": "474",
+                "link": [
+                    {
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=22941628100&origin=inward",
+                        "@rel": "scopus-author",
+                        "@_fa": "true"
+                    },
+                    {
+                        "@href": "http://api.elsevier.com/content/author/author_id/22941628100",
+                        "@rel": "self",
+                        "@_fa": "true"
+                    },
+                    {
+                        "@href": "http://api.elsevier.com/content/search/scopus?query=au-id%2822941628100%29",
+                        "@rel": "search",
+                        "@_fa": "true"
+                    }
+                ]
+            },
+            "affiliation-current": {
+                "@id": "104717554",
+                "@href": "http://api.elsevier.com/content/affiliation/affiliation_id/104717554"
+            },
+            "affiliation-history": {
+                "affiliation": [
+                    {
+                        "@_fa": "true",
+                        "@id": "60051434",
+                        "@href": "http://api.elsevier.com/content/affiliation/affiliation_id/60051434"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@id": "60027282",
+                        "@href": "http://api.elsevier.com/content/affiliation/affiliation_id/60027282"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@id": "60030807",
+                        "@href": "http://api.elsevier.com/content/affiliation/affiliation_id/60030807"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@id": "107233485",
+                        "@href": "http://api.elsevier.com/content/affiliation/affiliation_id/107233485"
+                    }
+                ]
+            },
+            "subject-areas": {
+                "subject-area": [
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "ENGI",
+                        "@code": "2214",
+                        "$": "Media Technology"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MEDI",
+                        "@code": "2738",
+                        "$": "Psychiatry and Mental Health"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "COMP",
+                        "@code": "1712",
+                        "$": "Software"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "BIOC",
+                        "@code": "1304",
+                        "$": "Biophysics"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MATH",
+                        "@code": "2600",
+                        "$": "Mathematics (all)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "NURS",
+                        "@code": "2902",
+                        "$": "Advanced and Specialized Nursing"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "CENG",
+                        "@code": "1502",
+                        "$": "Bioengineering"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MEDI",
+                        "@code": "2718",
+                        "$": "Health Informatics"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "IMMU",
+                        "@code": "2402",
+                        "$": "Applied Microbiology and Biotechnology"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "COMP",
+                        "@code": "1700",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "COMP",
+                        "@code": "1702",
+                        "$": "Artificial Intelligence"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "NEUR",
+                        "@code": "2805",
+                        "$": "Cognitive Neuroscience"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "PHYS",
+                        "@code": "3104",
+                        "$": "Condensed Matter Physics"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "PHYS",
+                        "@code": "3105",
+                        "$": "Instrumentation"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "ENVI",
+                        "@code": "2310",
+                        "$": "Pollution"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MEDI",
+                        "@code": "2701",
+                        "$": "Medicine (miscellaneous)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "COMP",
+                        "@code": "1710",
+                        "$": "Information Systems"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "ENVI",
+                        "@code": "2307",
+                        "$": "Health, Toxicology and Mutagenesis"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "CENG",
+                        "@code": "1507",
+                        "$": "Fluid Flow and Transfer Processes"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MULT",
+                        "@code": "1000",
+                        "$": "Multidisciplinary"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MATH",
+                        "@code": "2614",
+                        "$": "Theoretical Computer Science"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "PHYS",
+                        "@code": "3107",
+                        "$": "Atomic and Molecular Physics, and Optics"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "ENGI",
+                        "@code": "2208",
+                        "$": "Electrical and Electronic Engineering"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MATH",
+                        "@code": "2604",
+                        "$": "Applied Mathematics"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MEDI",
+                        "@code": "2705",
+                        "$": "Cardiology and Cardiovascular Medicine"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "CHEM",
+                        "@code": "1602",
+                        "$": "Analytical Chemistry"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "BIOC",
+                        "@code": "1305",
+                        "$": "Biotechnology"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "COMP",
+                        "@code": "1706",
+                        "$": "Computer Science Applications"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MATE",
+                        "@code": "2500",
+                        "$": "Materials Science (all)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MEDI",
+                        "@code": "2739",
+                        "$": "Public Health, Environmental and Occupational Health"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MATE",
+                        "@code": "2504",
+                        "$": "Electronic, Optical and Magnetic Materials"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "MEDI",
+                        "@code": "2700",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "ENGI",
+                        "@code": "2200",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "HEAL",
+                        "@code": "3605",
+                        "$": "Health Information Management"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "ENGI",
+                        "@code": "2204",
+                        "$": "Biomedical Engineering"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "CENG",
+                        "@code": "1508",
+                        "$": "Process Chemistry and Technology"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "PSYC",
+                        "@code": "3200",
+                        "$": "Psychology (all)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "NURS",
+                        "@code": "2900",
+                        "$": "Nursing (all)"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "BIOC",
+                        "@code": "1303",
+                        "$": "Biochemistry"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@abbrev": "NEUR",
+                        "@code": "2808",
+                        "$": "Neurology"
+                    }
+                ]
+            },
+            "author-profile": {
+                "status": "update",
+                "date-created": {
+                    "@year": "2007",
+                    "@month": "11",
+                    "@day": "05"
+                },
+                "preferred-name": {
+                    "@date-locked": "2021-08-02T16:55:03.995-04:00",
+                    "@source": "corrapi-external",
+                    "initials": "D.M.",
+                    "indexed-name": "Lopez D.",
+                    "surname": "Lopez",
+                    "given-name": "Diego M."
+                },
+                "name-variant": [
+                    {
+                        "@doc-count": "1",
+                        "@source": "internal-ani",
+                        "initials": "D.",
+                        "indexed-name": "López D.",
+                        "surname": "López",
+                        "given-name": "D."
+                    },
+                    {
+                        "@doc-count": "47",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "López D.",
+                        "surname": "López",
+                        "given-name": "Diego M."
+                    },
+                    {
+                        "@doc-count": "3",
+                        "@source": "internal-ani",
+                        "initials": "D.",
+                        "indexed-name": "López D.",
+                        "surname": "López",
+                        "given-name": "Diego"
+                    },
+                    {
+                        "@doc-count": "2",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "López D.",
+                        "surname": "López",
+                        "given-name": "D. M."
+                    },
+                    {
+                        "@doc-count": "1",
+                        "@source": "internal-ani",
+                        "initials": "D.L.",
+                        "indexed-name": "López D.",
+                        "surname": "López",
+                        "given-name": "Diego L."
+                    },
+                    {
+                        "@doc-count": "2",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "Lopez-Gutierrez D.",
+                        "surname": "Lopez-Gutierrez",
+                        "given-name": "Diego M."
+                    },
+                    {
+                        "@doc-count": "3",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "Lopez D.",
+                        "surname": "Lopez",
+                        "given-name": "D. M."
+                    },
+                    {
+                        "@doc-count": "22",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "Lopez D.",
+                        "surname": "Lopez",
+                        "given-name": "Diego M."
+                    },
+                    {
+                        "@doc-count": "1",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "López D.",
+                        "surname": "López",
+                        "given-name": "Diego Mauricio"
+                    },
+                    {
+                        "@doc-count": "1",
+                        "@source": "internal-ani",
+                        "initials": "D.",
+                        "indexed-name": "Lopéz D.",
+                        "surname": "Lopéz",
+                        "given-name": "Diego"
+                    },
+                    {
+                        "@doc-count": "1",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "Lopez D.",
+                        "surname": "Lopez",
+                        "given-name": "Diego Mauricio"
+                    },
+                    {
+                        "@doc-count": "1",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "Lopez-Gutierrez D.",
+                        "surname": "Lopez-Gutierrez",
+                        "given-name": "Diego Mauricio"
+                    },
+                    {
+                        "@doc-count": "2",
+                        "@source": "internal-ani",
+                        "initials": "D.M.",
+                        "indexed-name": "Lopéz D.",
+                        "surname": "Lopéz",
+                        "given-name": "Diego M."
+                    }
+                ],
+                "classificationgroup": {
+                    "classifications": {
+                        "@type": "ASJC",
+                        "classification": [
+                            {
+                                "@frequency": "2",
+                                "$": "2214"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "2738"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "1712"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "1304"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "2600"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "2902"
+                            },
+                            {
+                                "@frequency": "6",
+                                "$": "1502"
+                            },
+                            {
+                                "@frequency": "53",
+                                "$": "2718"
+                            },
+                            {
+                                "@frequency": "3",
+                                "$": "2402"
+                            },
+                            {
+                                "@frequency": "10",
+                                "$": "1700"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "1702"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "2805"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "3104"
+                            },
+                            {
+                                "@frequency": "3",
+                                "$": "3105"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "2310"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "2701"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "1710"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "2307"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "1507"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "1000"
+                            },
+                            {
+                                "@frequency": "4",
+                                "$": "2614"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "3107"
+                            },
+                            {
+                                "@frequency": "4",
+                                "$": "2208"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "2604"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "2705"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "1602"
+                            },
+                            {
+                                "@frequency": "3",
+                                "$": "1305"
+                            },
+                            {
+                                "@frequency": "5",
+                                "$": "1706"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "2500"
+                            },
+                            {
+                                "@frequency": "3",
+                                "$": "2739"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "2504"
+                            },
+                            {
+                                "@frequency": "6",
+                                "$": "2700"
+                            },
+                            {
+                                "@frequency": "3",
+                                "$": "2200"
+                            },
+                            {
+                                "@frequency": "52",
+                                "$": "3605"
+                            },
+                            {
+                                "@frequency": "54",
+                                "$": "2204"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "1508"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "3200"
+                            },
+                            {
+                                "@frequency": "4",
+                                "$": "2900"
+                            },
+                            {
+                                "@frequency": "2",
+                                "$": "1303"
+                            },
+                            {
+                                "@frequency": "1",
+                                "$": "2808"
+                            }
+                        ]
+                    }
+                },
+                "publication-range": {
+                    "@start": "2005",
+                    "@end": "2021"
+                },
+                "affiliation-current": {
+                    "affiliation": {
+                        "@affiliation-id": "104717554",
+                        "@parent": "60051434",
+                        "@source": "internal-ani",
+                        "ip-doc": {
+                            "@id": "104717554",
+                            "@type": "dept",
+                            "@relationship": "author",
+                            "afdispname": "Universidad del Cauca, Telematics Department",
+                            "preferred-name": {
+                                "@source": "internal-ani",
+                                "$": "Telematics Department"
+                            },
+                            "parent-preferred-name": {
+                                "@source": "internal-ani",
+                                "$": "Universidad del Cauca"
+                            },
+                            "sort-name": "Telematics Department",
+                            "address": {
+                                "@country": "col",
+                                "address-part": "Calle 5 Nº 4-70",
+                                "city": "Popayan",
+                                "state": "Cauca",
+                                "country": "Colombia"
+                            },
+                            "org-domain": "unicauca.edu.co",
+                            "org-URL": "http://www.unicauca.edu.co/versionP/"
+                        }
+                    }
+                },
+                "affiliation-history": {
+                    "affiliation": [
+                        {
+                            "@affiliation-id": "104717554",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "104717554",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Telematics Department",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Telematics Department"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Telematics Department",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "112213444",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "112213444",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Electronics and Telecommunication Faculty",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Electronics and Telecommunication Faculty"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Electronics and Telecommunication Faculty",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "60051434",
+                                "@type": "parent",
+                                "@relationship": "author",
+                                "afnameid": "Universidad del Cauca#60051434",
+                                "afdispname": "Universidad del Cauca",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Cauca, Universidad del",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "105501700",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "105501700",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Telematics Engineering Research Group",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Telematics Engineering Research Group"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Telematics Engineering Research Group",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "123523248",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "123523248",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Telematics Deparment",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Telematics Deparment"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Telematics Deparment",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "60027282",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "60027282",
+                                "@type": "parent",
+                                "@relationship": "author",
+                                "afnameid": "Universidad Complutense de Madrid#60027282",
+                                "afdispname": "Universidad Complutense de Madrid",
+                                "manual-curation": {
+                                    "@curated": "true",
+                                    "date-curation": {
+                                        "@day": "30",
+                                        "@month": "11",
+                                        "@timestamp": "2017-11-30T07:19:08.617-05:00",
+                                        "@year": "2017"
+                                    },
+                                    "curation-source": "QABOAPI",
+                                    "curation-type": "QABO-3495478"
+                                },
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad Complutense de Madrid"
+                                },
+                                "sort-name": "Complutense University of Madrid",
+                                "address": {
+                                    "@country": "esp",
+                                    "address-part": "Avda. de Séneca, 2, Ciudad Universitaria",
+                                    "city": "Madrid",
+                                    "state": "Madrid",
+                                    "postal-code": "28040",
+                                    "country": "Spain"
+                                },
+                                "org-URL": "https://www.ucm.es/english"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "104717561",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "104717561",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Grupo de Ingeniería Telemática",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Grupo de Ingeniería Telemática"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Grupo de Ingeniería Telemática",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "113344040",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "113344040",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Telematics Engineering Department",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Telematics Engineering Department"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Telematics Engineering Department",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "60030807",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "60030807",
+                                "@type": "parent",
+                                "@relationship": "author",
+                                "afnameid": "Universität Regensburg#60030807",
+                                "afdispname": "Universität Regensburg",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universität Regensburg"
+                                },
+                                "sort-name": "Regensburg, University of",
+                                "address": {
+                                    "@country": "deu",
+                                    "address-part": "Universitätsstrasse 31",
+                                    "city": "Regensburg",
+                                    "state": "Bayern",
+                                    "postal-code": "93053",
+                                    "country": "Germany"
+                                },
+                                "org-domain": "uni-regensburg.de",
+                                "org-URL": "http://www.uni-regensburg.de"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "124268712",
+                            "@parent": "60015176",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "124268712",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Deggendorf Institute of Technology, EHealth Competence Center Bavaria",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "EHealth Competence Center Bavaria"
+                                },
+                                "parent-preferred-name": {
+                                    "@date-locked": "2020-04-22T21:10:32.386-04:00",
+                                    "@source": "corrapi-external",
+                                    "$": "Deggendorf Institute of Technology"
+                                },
+                                "sort-name": "EHealth Competence Center Bavaria",
+                                "address": {
+                                    "@country": "deu",
+                                    "address-part": "Dieter-Görlitz-Platz 1",
+                                    "city": "Deggendorf",
+                                    "state": "Bayern",
+                                    "postal-code": "94469",
+                                    "country": "Germany"
+                                },
+                                "org-domain": "th-deg.de",
+                                "org-URL": "https://www.th-deg.de/en/dit/profile"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "109856659",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "109856659",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Telecommunications Department",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Telecommunications Department"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Telecommunications Department",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "100299821",
+                            "@parent": "60030807",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "100299821",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universität Regensburg, Faculty of Medicine",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Faculty of Medicine"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universität Regensburg"
+                                },
+                                "sort-name": "Faculty of Medicine",
+                                "address": {
+                                    "@country": "deu",
+                                    "address-part": "Universitätsstrasse 31",
+                                    "city": "Regensburg",
+                                    "state": "Bayern",
+                                    "postal-code": "93053",
+                                    "country": "Germany"
+                                },
+                                "org-domain": "uni-regensburg.de",
+                                "org-URL": "http://www.uni-regensburg.de"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "105511040",
+                            "@parent": "60020016",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "105511040",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Klinikum der Universität Regensburg und Medizinische Fakultät, eHealth Competence Center",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "eHealth Competence Center"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Klinikum der Universität Regensburg und Medizinische Fakultät"
+                                },
+                                "sort-name": "eHealth Competence Center",
+                                "address": {
+                                    "@country": "deu",
+                                    "address-part": "Franz-Josef-Strauß-Allee 11",
+                                    "city": "Regensburg",
+                                    "state": "Bayern",
+                                    "postal-code": "93053",
+                                    "country": "Germany"
+                                },
+                                "org-domain": "klinik.uni-regensburg.de",
+                                "org-URL": "http://www.klinik.uni-regensburg.de/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "104717544",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "104717544",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Department of Systems",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Department of Systems"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Department of Systems",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "108367057",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "108367057",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Telematics Research Group",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Telematics Research Group"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Telematics Research Group",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "104560440",
+                            "@parent": "60030807",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "104560440",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universität Regensburg, eHealth Competence Center",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "eHealth Competence Center"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universität Regensburg"
+                                },
+                                "sort-name": "eHealth Competence Center",
+                                "address": {
+                                    "@country": "deu",
+                                    "address-part": "Universitätsstrasse 31",
+                                    "city": "Regensburg",
+                                    "state": "Bayern",
+                                    "postal-code": "93053",
+                                    "country": "Germany"
+                                },
+                                "org-domain": "uni-regensburg.de",
+                                "org-URL": "http://www.uni-regensburg.de"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "107233485",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "107233485",
+                                "@type": "parent",
+                                "@relationship": "author",
+                                "afnameid": "Health Competence Center Regensburg#107233485",
+                                "afdispname": "Health Competence Center Regensburg",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Health Competence Center Regensburg"
+                                },
+                                "sort-name": "Health Competence Center Regensburg"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "104717552",
+                            "@parent": "60051434",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "104717552",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidad del Cauca, Departamento de Telemática",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Departamento de Telemática"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidad del Cauca"
+                                },
+                                "sort-name": "Departamento de Telemática",
+                                "address": {
+                                    "@country": "col",
+                                    "address-part": "Calle 5 Nº 4-70",
+                                    "city": "Popayan",
+                                    "state": "Cauca",
+                                    "country": "Colombia"
+                                },
+                                "org-domain": "unicauca.edu.co",
+                                "org-URL": "http://www.unicauca.edu.co/versionP/"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "104328407",
+                            "@parent": "60026134",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "104328407",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidade de Vigo, Departamento de Ingenier'ia de Sistemas Telemáticos",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Departamento de Ingenier'ia de Sistemas Telemáticos"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidade de Vigo"
+                                },
+                                "sort-name": "Departamento de Ingenier'ia de Sistemas Telemáticos",
+                                "address": {
+                                    "@country": "esp",
+                                    "address-part": "Edificio Filomena Dato,As Lagoas, Marcosende",
+                                    "city": "Vigo",
+                                    "state": "Galicia",
+                                    "postal-code": "36310",
+                                    "country": "Spain"
+                                },
+                                "org-domain": "uvigo.es",
+                                "org-URL": "http://www.uvigo.gal"
+                            }
+                        },
+                        {
+                            "@affiliation-id": "104328176",
+                            "@parent": "60026134",
+                            "@source": "internal-ani",
+                            "ip-doc": {
+                                "@id": "104328176",
+                                "@type": "dept",
+                                "@relationship": "author",
+                                "afdispname": "Universidade de Vigo, Department of Telematics Engineering",
+                                "preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Department of Telematics Engineering"
+                                },
+                                "parent-preferred-name": {
+                                    "@source": "internal-ani",
+                                    "$": "Universidade de Vigo"
+                                },
+                                "sort-name": "Department of Telematics Engineering",
+                                "address": {
+                                    "@country": "esp",
+                                    "address-part": "Edificio Filomena Dato,As Lagoas, Marcosende",
+                                    "city": "Vigo",
+                                    "state": "Galicia",
+                                    "postal-code": "36310",
+                                    "country": "Spain"
+                                },
+                                "org-domain": "uvigo.es",
+                                "org-URL": "http://www.uvigo.gal"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1975 @@
+{
+    "search-results": {
+        "opensearch:totalResults": "1811",
+        "opensearch:startIndex": "0",
+        "opensearch:itemsPerPage": "25",
+        "opensearch:Query": {
+            "@role": "request",
+            "@searchTerms": "affil(Universidad del Cauca)",
+            "@startPage": "0"
+        },
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/search/author?start=0&count=25&query=affil%28Universidad+del+Cauca%29",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "first",
+                "@href": "https://api.elsevier.com/content/search/author?start=0&count=25&query=affil%28Universidad+del+Cauca%29",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "next",
+                "@href": "https://api.elsevier.com/content/search/author?start=25&count=25&query=affil%28Universidad+del+Cauca%29",
+                "@type": "application/json"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "last",
+                "@href": "https://api.elsevier.com/content/search/author?start=1786&count=25&query=affil%28Universidad+del+Cauca%29",
+                "@type": "application/json"
+            }
+        ],
+        "entry": [
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/55665272100"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%2855665272100%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=55665272100&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=55665272100&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/55665272100",
+                "dc:identifier": "AUTHOR_ID:55665272100",
+                "eid": "9-s2.0-55665272100",
+                "preferred-name": {
+                    "surname": "Poor",
+                    "given-name": "Harold Vincent",
+                    "initials": "H.V."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Vincent",
+                        "given-name": "Poor H.",
+                        "initials": "P.H."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Vincent",
+                        "given-name": "H.",
+                        "initials": "H."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Poor",
+                        "given-name": "H. Vincentx",
+                        "initials": "H.V."
+                    }
+                ],
+                "document-count": "1975",
+                "subject-area": [
+                    {
+                        "@abbrev": "COMP",
+                        "@frequency": "2393",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "1532",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@abbrev": "MATH",
+                        "@frequency": "670",
+                        "$": "Mathematics (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60003269",
+                    "affiliation-id": "60003269",
+                    "affiliation-name": "Princeton University",
+                    "affiliation-city": "Princeton",
+                    "affiliation-country": "United States"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7004203473"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287004203473%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7004203473&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7004203473&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7004203473",
+                "dc:identifier": "AUTHOR_ID:7004203473",
+                "eid": "9-s2.0-7004203473",
+                "orcid": "0000-0002-7212-8279",
+                "preferred-name": {
+                    "surname": "Piattini",
+                    "given-name": "Mario",
+                    "initials": "M."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Velthuis",
+                        "given-name": "Mario Piattini",
+                        "initials": "M.P."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Piatini",
+                        "given-name": "Mario",
+                        "initials": "M."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Velthius",
+                        "given-name": "Mario Piattini",
+                        "initials": "M.P."
+                    }
+                ],
+                "document-count": "752",
+                "subject-area": [
+                    {
+                        "@abbrev": "COMP",
+                        "@frequency": "1025",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "162",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@abbrev": "MATH",
+                        "@frequency": "141",
+                        "$": "Mathematics (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60000823",
+                    "affiliation-id": "60000823",
+                    "affiliation-name": "Universidad de Castilla-La Mancha",
+                    "affiliation-city": "Ciudad Real",
+                    "affiliation-country": "Spain"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/8568805300"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%288568805300%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=8568805300&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=8568805300&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/8568805300",
+                "dc:identifier": "AUTHOR_ID:8568805300",
+                "eid": "9-s2.0-8568805300",
+                "orcid": "0000-0002-7099-8131",
+                "preferred-name": {
+                    "surname": "Collazos",
+                    "given-name": "César A.",
+                    "initials": "C.A."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Collazos",
+                        "given-name": "C. A.",
+                        "initials": "C.A."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Collazos",
+                        "given-name": "César",
+                        "initials": "C."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Collazos",
+                        "given-name": "Cesar",
+                        "initials": "C."
+                    }
+                ],
+                "document-count": "294",
+                "subject-area": [
+                    {
+                        "@abbrev": "COMP",
+                        "@frequency": "490",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@abbrev": "MATH",
+                        "@frequency": "77",
+                        "$": "Mathematics (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "62",
+                        "$": "Engineering (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60051434",
+                    "affiliation-id": "60051434",
+                    "affiliation-name": "Universidad del Cauca",
+                    "affiliation-city": "Popayan",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/6701779039"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%286701779039%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=6701779039&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=6701779039&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/6701779039",
+                "dc:identifier": "AUTHOR_ID:6701779039",
+                "eid": "9-s2.0-6701779039",
+                "preferred-name": {
+                    "surname": "Granville",
+                    "given-name": "Lisandro Z.",
+                    "initials": "L.Z."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Z. Granville",
+                        "given-name": "Lisandro",
+                        "initials": "L."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Zambenedetti Granville",
+                        "given-name": "Lisandro",
+                        "initials": "L."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Granville",
+                        "given-name": "Lisandro Z.",
+                        "initials": "L.Z."
+                    }
+                ],
+                "document-count": "288",
+                "subject-area": [
+                    {
+                        "@abbrev": "COMP",
+                        "@frequency": "464",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "92",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@abbrev": "MATH",
+                        "@frequency": "53",
+                        "$": "Mathematics (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60006726",
+                    "affiliation-id": "60006726",
+                    "affiliation-name": "Universidade Federal do Rio Grande do Sul",
+                    "affiliation-city": "Porto Alegre",
+                    "affiliation-country": "Brazil"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7006895441"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287006895441%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7006895441&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7006895441&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7006895441",
+                "dc:identifier": "AUTHOR_ID:7006895441",
+                "eid": "9-s2.0-7006895441",
+                "preferred-name": {
+                    "surname": "Insuasty O",
+                    "given-name": "Braulio",
+                    "initials": "B."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Insuasty",
+                        "given-name": "B. A.",
+                        "initials": "B.A."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "de Insuasty",
+                        "given-name": "Myriam Bravo",
+                        "initials": "M.B."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Insuasty",
+                        "given-name": "Braulio",
+                        "initials": "B."
+                    }
+                ],
+                "document-count": "242",
+                "subject-area": [
+                    {
+                        "@abbrev": "CHEM",
+                        "@frequency": "236",
+                        "$": "Chemistry (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "106",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    },
+                    {
+                        "@abbrev": "PHAR",
+                        "@frequency": "90",
+                        "$": "Pharmacology, Toxicology and Pharmaceutics (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60066812",
+                    "affiliation-id": "60066812",
+                    "affiliation-name": "Universidad del Valle, Cali",
+                    "affiliation-city": "Cali",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7003934654"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287003934654%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7003934654&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7003934654&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7003934654",
+                "dc:identifier": "AUTHOR_ID:7003934654",
+                "eid": "9-s2.0-7003934654",
+                "orcid": "0000-0003-0827-2804",
+                "preferred-name": {
+                    "surname": "Zunzunegui",
+                    "given-name": "Maria Victoria",
+                    "initials": "M.V."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Zunzunegui",
+                        "given-name": "Ma V.",
+                        "initials": "M.V."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Zunzunegui",
+                        "given-name": "Maria V.",
+                        "initials": "M.V."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Zunzunegui",
+                        "given-name": "María Victoria",
+                        "initials": "M.V."
+                    }
+                ],
+                "document-count": "223",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "253",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "SOCI",
+                        "@frequency": "62",
+                        "$": "Social Sciences (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "46",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60009507",
+                    "affiliation-id": "60009507",
+                    "affiliation-name": "University of Montreal",
+                    "affiliation-city": "Montreal",
+                    "affiliation-country": "Canada"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/55551292000"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%2855551292000%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=55551292000&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=55551292000&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/55551292000",
+                "dc:identifier": "AUTHOR_ID:55551292000",
+                "eid": "9-s2.0-55551292000",
+                "preferred-name": {
+                    "surname": "Blobel",
+                    "given-name": "Bernd Gerhard",
+                    "initials": "B.G."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Blobel",
+                        "given-name": "Bernd G.M.E.",
+                        "initials": "B.G.M.E."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Blobel",
+                        "given-name": "B.",
+                        "initials": "B."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Blobel",
+                        "given-name": "Bernd",
+                        "initials": "B."
+                    }
+                ],
+                "document-count": "220",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "206",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "HEAL",
+                        "@frequency": "173",
+                        "$": "Health Professions  (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "171",
+                        "$": "Engineering (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60030807",
+                    "affiliation-id": "60030807",
+                    "affiliation-name": "Universität Regensburg",
+                    "affiliation-city": "Regensburg",
+                    "affiliation-country": "Germany"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7404494222"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287404494222%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7404494222&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7404494222&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7404494222",
+                "dc:identifier": "AUTHOR_ID:7404494222",
+                "eid": "9-s2.0-7404494222",
+                "orcid": "0000-0002-0381-6393",
+                "preferred-name": {
+                    "surname": "González",
+                    "given-name": "Jesús Antonio",
+                    "initials": "J.A."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "González",
+                        "given-name": "J. A.",
+                        "initials": "J.A."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Gonzalez",
+                        "given-name": "Jesus",
+                        "initials": "J."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "González",
+                        "given-name": "Jesús",
+                        "initials": "J."
+                    }
+                ],
+                "document-count": "189",
+                "subject-area": [
+                    {
+                        "@abbrev": "PHYS",
+                        "@frequency": "171",
+                        "$": "Physics and Astronomy (all)"
+                    },
+                    {
+                        "@abbrev": "MATE",
+                        "@frequency": "124",
+                        "$": "Materials Science (all)"
+                    },
+                    {
+                        "@abbrev": "CHEM",
+                        "@frequency": "46",
+                        "$": "Chemistry (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60015179",
+                    "affiliation-id": "60015179",
+                    "affiliation-name": "Universidad de Cantabria",
+                    "affiliation-city": "Santander",
+                    "affiliation-country": "Spain"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/55167413900"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%2855167413900%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=55167413900&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=55167413900&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/55167413900",
+                "dc:identifier": "AUTHOR_ID:55167413900",
+                "eid": "9-s2.0-55167413900",
+                "preferred-name": {
+                    "surname": "Bermejo",
+                    "given-name": "Manuel R.",
+                    "initials": "M.R."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Bermejo",
+                        "given-name": "M. R.B.",
+                        "initials": "M.R.B."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Bermejo",
+                        "given-name": "Manuel",
+                        "initials": "M."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Bermejo",
+                        "given-name": "M.",
+                        "initials": "M."
+                    }
+                ],
+                "document-count": "180",
+                "subject-area": [
+                    {
+                        "@abbrev": "CHEM",
+                        "@frequency": "203",
+                        "$": "Chemistry (all)"
+                    },
+                    {
+                        "@abbrev": "MATE",
+                        "@frequency": "60",
+                        "$": "Materials Science (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "53",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60028419",
+                    "affiliation-id": "60028419",
+                    "affiliation-name": "Universidad de Santiago de Compostela",
+                    "affiliation-city": "Santiago de Compostela",
+                    "affiliation-country": "Spain"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7005860176"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287005860176%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7005860176&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7005860176&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7005860176",
+                "dc:identifier": "AUTHOR_ID:7005860176",
+                "eid": "9-s2.0-7005860176",
+                "preferred-name": {
+                    "surname": "Máttar",
+                    "given-name": "Salim",
+                    "initials": "S."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Máttar",
+                        "given-name": "S.",
+                        "initials": "S."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Mattar",
+                        "given-name": "Salim",
+                        "initials": "S."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Máttar",
+                        "given-name": "V. Salim",
+                        "initials": "V.S."
+                    }
+                ],
+                "document-count": "138",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "147",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "IMMU",
+                        "@frequency": "49",
+                        "$": "Immunology and Microbiology (all)"
+                    },
+                    {
+                        "@abbrev": "AGRI",
+                        "@frequency": "39",
+                        "$": "Agricultural and Biological Sciences (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60109397",
+                    "affiliation-id": "60109397",
+                    "affiliation-name": "Universidad de Córdoba, Monteria",
+                    "affiliation-city": "Monteria",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7103131035"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287103131035%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7103131035&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7103131035&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7103131035",
+                "dc:identifier": "AUTHOR_ID:7103131035",
+                "eid": "9-s2.0-7103131035",
+                "orcid": "0000-0003-3367-539X",
+                "preferred-name": {
+                    "surname": "Takahashi",
+                    "given-name": "C. S.",
+                    "initials": "C.S."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Takahashi",
+                        "given-name": "C. S.",
+                        "initials": "C.S."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Takahashi",
+                        "given-name": "Catarina S.",
+                        "initials": "C.S."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Takahashi",
+                        "given-name": "C.",
+                        "initials": "C."
+                    }
+                ],
+                "document-count": "115",
+                "subject-area": [
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "91",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    },
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "47",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "PHAR",
+                        "@frequency": "39",
+                        "$": "Pharmacology, Toxicology and Pharmaceutics (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60008088",
+                    "affiliation-id": "60008088",
+                    "affiliation-name": "Universidade de São Paulo",
+                    "affiliation-city": "Sao Paulo",
+                    "affiliation-country": "Brazil"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/9846634800"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%289846634800%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=9846634800&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=9846634800&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/9846634800",
+                "dc:identifier": "AUTHOR_ID:9846634800",
+                "eid": "9-s2.0-9846634800",
+                "orcid": "0000-0002-5669-588X",
+                "preferred-name": {
+                    "surname": "Tarouco",
+                    "given-name": "Liane Margarida Rockenbach",
+                    "initials": "L.M.R."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Tarouco",
+                        "given-name": "L. M.R.",
+                        "initials": "L.M.R."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Rockenbach Tarouco",
+                        "given-name": "Liane Margarida",
+                        "initials": "L.M."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Tarouco",
+                        "given-name": "Liane",
+                        "initials": "L."
+                    }
+                ],
+                "document-count": "111",
+                "subject-area": [
+                    {
+                        "@abbrev": "COMP",
+                        "@frequency": "163",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "38",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@abbrev": "MATH",
+                        "@frequency": "27",
+                        "$": "Mathematics (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60006726",
+                    "affiliation-id": "60006726",
+                    "affiliation-name": "Universidade Federal do Rio Grande do Sul",
+                    "affiliation-city": "Porto Alegre",
+                    "affiliation-country": "Brazil"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7005492950"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287005492950%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7005492950&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7005492950&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7005492950",
+                "dc:identifier": "AUTHOR_ID:7005492950",
+                "eid": "9-s2.0-7005492950",
+                "orcid": "0000-0003-4027-9205",
+                "preferred-name": {
+                    "surname": "Galvao",
+                    "given-name": "Cleber",
+                    "initials": "C."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Galvão",
+                        "given-name": "Cleber",
+                        "initials": "C."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "GalvãO",
+                        "given-name": "C.",
+                        "initials": "C."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Galvão",
+                        "given-name": "C.",
+                        "initials": "C."
+                    }
+                ],
+                "document-count": "106",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "87",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "IMMU",
+                        "@frequency": "81",
+                        "$": "Immunology and Microbiology (all)"
+                    },
+                    {
+                        "@abbrev": "AGRI",
+                        "@frequency": "68",
+                        "$": "Agricultural and Biological Sciences (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60026004",
+                    "affiliation-id": "60026004",
+                    "affiliation-name": "Fundacao Oswaldo Cruz",
+                    "affiliation-city": "Rio de Janeiro",
+                    "affiliation-country": "Brazil"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7003604429"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287003604429%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7003604429&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7003604429&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7003604429",
+                "dc:identifier": "AUTHOR_ID:7003604429",
+                "eid": "9-s2.0-7003604429",
+                "preferred-name": {
+                    "surname": "Sakamoto-Hojo",
+                    "given-name": "Elza Tiemi",
+                    "initials": "E.T."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Sakamoto Hojo",
+                        "given-name": "E.",
+                        "initials": "E."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Sakamoto-Hojo",
+                        "given-name": "E. T.",
+                        "initials": "E.T."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Sakamoto Hojo",
+                        "given-name": "Elza T.",
+                        "initials": "E.T."
+                    }
+                ],
+                "document-count": "106",
+                "subject-area": [
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "109",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    },
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "67",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "ENVI",
+                        "@frequency": "29",
+                        "$": "Environmental Science (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60008088",
+                    "affiliation-id": "60008088",
+                    "affiliation-name": "Universidade de São Paulo",
+                    "affiliation-city": "Sao Paulo",
+                    "affiliation-country": "Brazil"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/57203501529"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%2857203501529%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=57203501529&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=57203501529&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/57203501529",
+                "dc:identifier": "AUTHOR_ID:57203501529",
+                "eid": "9-s2.0-57203501529",
+                "orcid": "0000-0001-9127-0740",
+                "preferred-name": {
+                    "surname": "García-Deibe",
+                    "given-name": "Ana M.",
+                    "initials": "A.M."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "García Deibe",
+                        "given-name": "A. M.",
+                        "initials": "A.M."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "García-Deibe",
+                        "given-name": "Ana M.",
+                        "initials": "A.M."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "García-Deibe",
+                        "given-name": "A. M.",
+                        "initials": "A.M."
+                    }
+                ],
+                "document-count": "105",
+                "subject-area": [
+                    {
+                        "@abbrev": "CHEM",
+                        "@frequency": "125",
+                        "$": "Chemistry (all)"
+                    },
+                    {
+                        "@abbrev": "MATE",
+                        "@frequency": "37",
+                        "$": "Materials Science (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "25",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60028419",
+                    "affiliation-id": "60028419",
+                    "affiliation-name": "Universidad de Santiago de Compostela",
+                    "affiliation-city": "Santiago de Compostela",
+                    "affiliation-country": "Spain"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/6603721635"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%286603721635%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=6603721635&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=6603721635&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/6603721635",
+                "dc:identifier": "AUTHOR_ID:6603721635",
+                "eid": "9-s2.0-6603721635",
+                "orcid": "0000-0002-7535-946X",
+                "preferred-name": {
+                    "surname": "Fondo",
+                    "given-name": "Matilde",
+                    "initials": "M."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Fondo",
+                        "given-name": "M.",
+                        "initials": "M."
+                    }
+                ],
+                "document-count": "99",
+                "subject-area": [
+                    {
+                        "@abbrev": "CHEM",
+                        "@frequency": "129",
+                        "$": "Chemistry (all)"
+                    },
+                    {
+                        "@abbrev": "MATE",
+                        "@frequency": "41",
+                        "$": "Materials Science (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "17",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60028419",
+                    "affiliation-id": "60028419",
+                    "affiliation-name": "Universidad de Santiago de Compostela",
+                    "affiliation-city": "Santiago de Compostela",
+                    "affiliation-country": "Spain"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/7102754943"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%287102754943%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=7102754943&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=7102754943&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/7102754943",
+                "dc:identifier": "AUTHOR_ID:7102754943",
+                "eid": "9-s2.0-7102754943",
+                "preferred-name": {
+                    "surname": "Marr",
+                    "given-name": "J. Joseph",
+                    "initials": "J.J."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Marr",
+                        "given-name": "J. J.",
+                        "initials": "J.J."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "MARR",
+                        "given-name": "J. JOSEPH",
+                        "initials": "J.J."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Marr",
+                        "given-name": "J.",
+                        "initials": "J."
+                    }
+                ],
+                "document-count": "98",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "58",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "45",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    },
+                    {
+                        "@abbrev": "IMMU",
+                        "@frequency": "40",
+                        "$": "Immunology and Microbiology (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60028392",
+                    "affiliation-id": "60028392",
+                    "affiliation-name": "University of Colorado Anschutz Medical Campus",
+                    "affiliation-city": "Aurora",
+                    "affiliation-country": "United States"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/6602420952"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%286602420952%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=6602420952&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=6602420952&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/6602420952",
+                "dc:identifier": "AUTHOR_ID:6602420952",
+                "eid": "9-s2.0-6602420952",
+                "orcid": "0000-0001-5140-8573",
+                "preferred-name": {
+                    "surname": "Fontes",
+                    "given-name": "W.",
+                    "initials": "W."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Fontes",
+                        "given-name": "Wagner",
+                        "initials": "W."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Fontes",
+                        "given-name": "W.",
+                        "initials": "W."
+                    }
+                ],
+                "document-count": "97",
+                "subject-area": [
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "132",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    },
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "22",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "CHEM",
+                        "@frequency": "14",
+                        "$": "Chemistry (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60024989",
+                    "affiliation-id": "60024989",
+                    "affiliation-name": "Universidade de Brasília",
+                    "affiliation-city": "Brasilia",
+                    "affiliation-country": "Brazil"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/15135119500"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%2815135119500%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=15135119500&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=15135119500&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/15135119500",
+                "dc:identifier": "AUTHOR_ID:15135119500",
+                "eid": "9-s2.0-15135119500",
+                "orcid": "0000-0002-5608-9097",
+                "preferred-name": {
+                    "surname": "Corrales",
+                    "given-name": "Juan Carlos",
+                    "initials": "J.C."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Corrales-Munoz",
+                        "given-name": "Juan Carlos",
+                        "initials": "J.C."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Corrales",
+                        "given-name": "Juan C.",
+                        "initials": "J.C."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Corrales-Muñoz",
+                        "given-name": "Juan Carlos",
+                        "initials": "J.C."
+                    }
+                ],
+                "document-count": "97",
+                "subject-area": [
+                    {
+                        "@abbrev": "COMP",
+                        "@frequency": "115",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "39",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@abbrev": "MATH",
+                        "@frequency": "29",
+                        "$": "Mathematics (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60051434",
+                    "affiliation-id": "60051434",
+                    "affiliation-name": "Universidad del Cauca",
+                    "affiliation-city": "Popayan",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/6603750742"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%286603750742%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=6603750742&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=6603750742&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/6603750742",
+                "dc:identifier": "AUTHOR_ID:6603750742",
+                "eid": "9-s2.0-6603750742",
+                "preferred-name": {
+                    "surname": "Delisle",
+                    "given-name": "Hélène F.",
+                    "initials": "H.F."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Delisle",
+                        "given-name": "Hélène",
+                        "initials": "H."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "DELISLE",
+                        "given-name": "HÉLÈNE",
+                        "initials": "H."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "DeLisle",
+                        "given-name": "Hélène",
+                        "initials": "H."
+                    }
+                ],
+                "document-count": "95",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "110",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "NURS",
+                        "@frequency": "21",
+                        "$": "Nursing (all)"
+                    },
+                    {
+                        "@abbrev": "AGRI",
+                        "@frequency": "16",
+                        "$": "Agricultural and Biological Sciences (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60009507",
+                    "affiliation-id": "60009507",
+                    "affiliation-name": "University of Montreal",
+                    "affiliation-city": "Montreal",
+                    "affiliation-country": "Canada"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/22941628100"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%2822941628100%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=22941628100&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=22941628100&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/22941628100",
+                "dc:identifier": "AUTHOR_ID:22941628100",
+                "eid": "9-s2.0-22941628100",
+                "orcid": "0000-0001-9425-4375",
+                "preferred-name": {
+                    "surname": "Lopez",
+                    "given-name": "Diego M.",
+                    "initials": "D.M."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "López",
+                        "given-name": "D.",
+                        "initials": "D."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "López",
+                        "given-name": "Diego M.",
+                        "initials": "D.M."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "López",
+                        "given-name": "Diego",
+                        "initials": "D."
+                    }
+                ],
+                "document-count": "87",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "66",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "63",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@abbrev": "HEAL",
+                        "@frequency": "52",
+                        "$": "Health Professions  (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60051434",
+                    "affiliation-id": "60051434",
+                    "affiliation-name": "Universidad del Cauca",
+                    "affiliation-city": "Popayan",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/6507572648"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%286507572648%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=6507572648&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=6507572648&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/6507572648",
+                "dc:identifier": "AUTHOR_ID:6507572648",
+                "eid": "9-s2.0-6507572648",
+                "orcid": "0000-0002-7694-6746",
+                "preferred-name": {
+                    "surname": "Rodríguez-Páez",
+                    "given-name": "J. E.",
+                    "initials": "J.E."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Rodríguez Páez",
+                        "given-name": "J. E.",
+                        "initials": "J.E."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Rodriguez",
+                        "given-name": "J. E.",
+                        "initials": "J.E."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Rodríguez",
+                        "given-name": "Jorge E.",
+                        "initials": "J.E."
+                    }
+                ],
+                "document-count": "85",
+                "subject-area": [
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "84",
+                        "$": "Engineering (all)"
+                    },
+                    {
+                        "@abbrev": "MATE",
+                        "@frequency": "76",
+                        "$": "Materials Science (all)"
+                    },
+                    {
+                        "@abbrev": "PHYS",
+                        "@frequency": "36",
+                        "$": "Physics and Astronomy (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60051434",
+                    "affiliation-id": "60051434",
+                    "affiliation-name": "Universidad del Cauca",
+                    "affiliation-city": "Popayan",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/37062002500"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%2837062002500%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=37062002500&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=37062002500&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/37062002500",
+                "dc:identifier": "AUTHOR_ID:37062002500",
+                "eid": "9-s2.0-37062002500",
+                "orcid": "0000-0001-8688-6276",
+                "preferred-name": {
+                    "surname": "Saldarriaga",
+                    "given-name": "Wilmar",
+                    "initials": "W."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Saldarriaga-Gil",
+                        "given-name": "Wilmar",
+                        "initials": "W."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Saldarriaga Gil",
+                        "given-name": "Wilmar",
+                        "initials": "W."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Gil",
+                        "given-name": "Saldarriaga Wilmar",
+                        "initials": "S.W."
+                    }
+                ],
+                "document-count": "82",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "80",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "12",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    },
+                    {
+                        "@abbrev": "SOCI",
+                        "@frequency": "4",
+                        "$": "Social Sciences (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60066812",
+                    "affiliation-id": "60066812",
+                    "affiliation-name": "Universidad del Valle, Cali",
+                    "affiliation-city": "Cali",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/6701647223"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%286701647223%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=6701647223&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=6701647223&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/6701647223",
+                "dc:identifier": "AUTHOR_ID:6701647223",
+                "eid": "9-s2.0-6701647223",
+                "orcid": "0000-0002-6263-1911",
+                "preferred-name": {
+                    "surname": "Cobos",
+                    "given-name": "Carlos",
+                    "initials": "C."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Cobos",
+                        "given-name": "Carlos A.",
+                        "initials": "C.A."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Cobos",
+                        "given-name": "Carlos Alberto",
+                        "initials": "C.A."
+                    },
+                    {
+                        "@_fa": "true",
+                        "surname": "Lozada",
+                        "given-name": "Carlos Alberto Cobos",
+                        "initials": "C.A.C."
+                    }
+                ],
+                "document-count": "72",
+                "subject-area": [
+                    {
+                        "@abbrev": "COMP",
+                        "@frequency": "84",
+                        "$": "Computer Science (all)"
+                    },
+                    {
+                        "@abbrev": "MATH",
+                        "@frequency": "40",
+                        "$": "Mathematics (all)"
+                    },
+                    {
+                        "@abbrev": "ENGI",
+                        "@frequency": "16",
+                        "$": "Engineering (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/60051434",
+                    "affiliation-id": "60051434",
+                    "affiliation-name": "Universidad del Cauca",
+                    "affiliation-city": "Popayan",
+                    "affiliation-country": "Colombia"
+                }
+            },
+            {
+                "@_fa": "true",
+                "link": [
+                    {
+                        "@_fa": "true",
+                        "@ref": "self",
+                        "@href": "https://api.elsevier.com/content/author/author_id/6603600727"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "search",
+                        "@href": "https://api.elsevier.com/content/search/author?query=au-id%286603600727%29"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-citedby",
+                        "@href": "https://www.scopus.com/author/citedby.uri?partnerID=HzOxMe3b&citedAuthorId=6603600727&origin=inward"
+                    },
+                    {
+                        "@_fa": "true",
+                        "@ref": "scopus-author",
+                        "@href": "https://www.scopus.com/authid/detail.uri?partnerID=HzOxMe3b&authorId=6603600727&origin=inward"
+                    }
+                ],
+                "prism:url": "https://api.elsevier.com/content/author/author_id/6603600727",
+                "dc:identifier": "AUTHOR_ID:6603600727",
+                "eid": "9-s2.0-6603600727",
+                "preferred-name": {
+                    "surname": "Carrasquilla",
+                    "given-name": "Gabriel",
+                    "initials": "G."
+                },
+                "name-variant": [
+                    {
+                        "@_fa": "true",
+                        "surname": "Carrasquilla",
+                        "given-name": "G.",
+                        "initials": "G."
+                    }
+                ],
+                "document-count": "71",
+                "subject-area": [
+                    {
+                        "@abbrev": "MEDI",
+                        "@frequency": "75",
+                        "$": "Medicine (all)"
+                    },
+                    {
+                        "@abbrev": "IMMU",
+                        "@frequency": "24",
+                        "$": "Immunology and Microbiology (all)"
+                    },
+                    {
+                        "@abbrev": "BIOC",
+                        "@frequency": "14",
+                        "$": "Biochemistry, Genetics and Molecular Biology (all)"
+                    }
+                ],
+                "affiliation-current": {
+                    "affiliation-url": "https://api.elsevier.com/content/affiliation/affiliation_id/113146356",
+                    "affiliation-id": "113146356",
+                    "affiliation-name": "University Hospital Foundation Santa Fe de Bogotá",
+                    "affiliation-city": "Bogota",
+                    "affiliation-country": "Colombia"
+                }
+            }
+        ]
+    }
+}
