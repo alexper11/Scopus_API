@@ -1,3 +1,5 @@
+"file key.txt must be created, add API KEY in first line and INST TOKEN in second line of the file"
+
 
 def read_key():
     with open("key.txt") as key:
