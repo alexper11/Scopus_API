@@ -2,10 +2,13 @@ import requests
 import json
 import numpy as np
 import pandas as pd
+from readKey import read_key
 
-API_KEY = "e5cb8edc6bea5b5ff8098cd18ca780bb"
+API_KEY = ""
 AUTHOR_ID = "22941628100"
-INST_TOKEN = "8ecf8b976fb67bcdb3eb1cf3e2f09088"
+INST_TOKEN = ""
+
+API_KEY, INST_TOKEN = read_key()
 
 url = f'https://api.elsevier.com/content/author/author_id/{AUTHOR_ID}'
 response = requests.get(url,
